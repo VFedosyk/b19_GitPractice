@@ -6,5 +6,9 @@ public class FirstGit {
         System.out.println("First Git practice command");
         System.out.println("Hello");
         System.out.println("My branches push Vova branch");
+
+        for (int i = 0; i < 10; i++){
+            System.out.println("Hello!");
+        }
     }
 }
